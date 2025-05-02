@@ -86,6 +86,29 @@ For the data detectives who want to see the raw numbers
 
 Don't have real GTFS data? No problem! This app comes with adorable sample data that mimics real transit patterns. Perfect for playing around!
 
+## 📸 Screenshots 📸
+
+### Temporal Analysis
+![Temporal Analysis](https://i.postimg.cc/zvzzpWVp/Screenshot-2025-05-02-at-2-27-15-pm.png)
+*Discover ridership patterns throughout the day, week, and month*
+
+### Spatial Analysis
+![Spatial Map](https://i.postimg.cc/nrgWMfb7/Screenshot-2025-05-02-at-2-28-24-pm.png)
+*See where transit activity concentrates across the city*
+
+### Route Analysis
+![Route Performance](https://i.postimg.cc/sxmp0pK2/Screenshot-2025-05-02-at-2-29-48-pm.png)
+*Analyze individual route performance and passenger flows*
+
+### Efficiency Comparison
+![Efficiency Metrics](https://i.postimg.cc/2SZ11QvB/Screenshot-2025-05-02-at-2-30-55-pm.png)
+*Compare the efficiency of different transit modes and stations*
+
+### Data Explorer
+![Overview Dashboard](https://i.postimg.cc/FF0mkTnv/Screenshot-2025-05-02-at-2-33-34-pm.png)
+*Dive into the raw data tables to find hidden insights*
+
+
 ## 🔮 Future Enhancements 🔮
 
 - **Real-time Data Integration**: Watch the city move in real-time
