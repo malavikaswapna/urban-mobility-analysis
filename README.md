@@ -1,6 +1,6 @@
 # 🚇 Urban Mobility Analysis 🚌
 
-![Transit Dashboard](https://i.postimg.cc/MpzDDLGS/Screenshot-2025-05-02-at-2-00-10-pm.png)
+![Transit Dashboard](https://i.imgur.com/6rgDngS.png)
 
 ## ✨ What is this magical app? ✨
 
@@ -89,23 +89,23 @@ Don't have real GTFS data? No problem! This app comes with adorable sample data 
 ## 📸 Screenshots 📸
 
 ### Temporal Analysis
-![Temporal Analysis](https://i.postimg.cc/zvzzpWVp/Screenshot-2025-05-02-at-2-27-15-pm.png)
+![Temporal Analysis](https://i.imgur.com/UtwjNQl.png)
 *Discover ridership patterns throughout the day, week, and month*
 
 ### Spatial Analysis
-![Spatial Map](https://i.postimg.cc/nrgWMfb7/Screenshot-2025-05-02-at-2-28-24-pm.png)
+![Spatial Map](https://i.imgur.com/yWU81kH.png)
 *See where transit activity concentrates across the city*
 
 ### Route Analysis
-![Route Performance](https://i.postimg.cc/sxmp0pK2/Screenshot-2025-05-02-at-2-29-48-pm.png)
+![Route Performance](https://i.imgur.com/vvJTqhq.png)
 *Analyze individual route performance and passenger flows*
 
 ### Efficiency Comparison
-![Efficiency Metrics](https://i.postimg.cc/2SZ11QvB/Screenshot-2025-05-02-at-2-30-55-pm.png)
+![Efficiency Metrics](https://i.imgur.com/gNT5kVc.png)
 *Compare the efficiency of different transit modes and stations*
 
 ### Data Explorer
-![Overview Dashboard](https://i.postimg.cc/FF0mkTnv/Screenshot-2025-05-02-at-2-33-34-pm.png)
+![Overview Dashboard](https://i.imgur.com/GjIYGrV.png)
 *Dive into the raw data tables to find hidden insights*
 
 
