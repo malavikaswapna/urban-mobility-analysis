@@ -1,0 +1,11 @@
+"route_id","route_short_name","route_long_name","route_type"
+1,"N1","New York Route A",2
+2,"N2","New York Route B",1
+3,"N3","New York Route C",2
+4,"N4","New York Route D",1
+5,"N5","New York Route E",1
+6,"N6","New York Route F",2
+7,"N7","New York Route G",2
+8,"N8","New York Route H",1
+9,"N9","New York Route I",2
+10,"N10","New York Route J",0

@@ -1,0 +1,11 @@
+"route_id","route_short_name","route_long_name","route_type"
+1,"R1","Route A",1
+2,"R2","Route B",0
+3,"R3","Route C",0
+4,"R4","Route D",2
+5,"R5","Route E",3
+6,"R6","Route F",0
+7,"R7","Route G",1
+8,"R8","Route H",0
+9,"R9","Route I",2
+10,"R10","Route J",1

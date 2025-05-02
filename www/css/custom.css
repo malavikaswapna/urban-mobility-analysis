@@ -1,0 +1,65 @@
+/* Custom CSS for Urban Mobility Analysis */
+
+/* Dashboard theme customization */
+.skin-blue .main-header .logo {
+  background-color: #1976D2;
+  font-weight: bold;
+}
+
+.skin-blue .main-header .navbar {
+  background-color: #1565C0;
+}
+
+/* Info boxes */
+.info-box {
+  border-radius: 5px;
+  padding: 15px;
+  background-color: #f5f5f5;
+  margin-bottom: 10px;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+}
+
+.info-box-label {
+  font-size: 14px;
+  color: #666;
+  margin-bottom: 5px;
+}
+
+.info-box-value {
+  font-size: 18px;
+  font-weight: bold;
+  color: #333;
+}
+
+/* Charts and maps */
+.leaflet-container {
+  border-radius: 5px;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+}
+
+/* Efficiency insights section */
+.efficiency-insights {
+  padding: 15px;
+  background-color: #fff;
+  border-left: 4px solid #2E7D32;
+}
+
+.efficiency-insights h4 {
+  color: #2E7D32;
+  margin-top: 0;
+}
+
+.efficiency-insights ul {
+  padding-left: 20px;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .box {
+    margin-bottom: 10px;
+  }
+  
+  .info-box-value {
+    font-size: 16px;
+  }
+}
